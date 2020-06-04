@@ -1,0 +1,28 @@
+.box,.image-box{
+    float: left;
+    width: 42%;
+}
+
+ .image-box {
+    width: min-content;
+} 
+
+.box {
+    height: 569px;
+}
+
+.box2{
+    width: 100%;
+}
+.textstyle{
+    color: rgb(27, 17, 119);
+}
+.imagebg{
+    background-image: url("./Sea.JPG");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:600px;
+}
+.footbox{
+    background-color:  rgb(19, 9, 77);
+}
